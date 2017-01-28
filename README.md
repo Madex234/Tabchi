@@ -4,7 +4,7 @@ TG-CLI based broadcasting bot!
 
 ## Install
 ```bash
-git clone https://github.com/Iteam-co/Tabchi --branch lastfix
+git clone https://github.com/Madex234/Tabchi --branch lastfix
 cd Tabchi
 chmod 777 install.sh
 ./install.sh
